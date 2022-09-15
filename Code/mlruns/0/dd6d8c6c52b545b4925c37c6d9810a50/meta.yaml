@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Edgar/Projetos/Projeto_Kobe/Code/mlruns/0/dd6d8c6c52b545b4925c37c6d9810a50/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: dd6d8c6c52b545b4925c37c6d9810a50
+run_uuid: dd6d8c6c52b545b4925c37c6d9810a50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1663195675794
+status: 1
+tags: []
+user_id: Edgar
